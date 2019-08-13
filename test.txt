@@ -1,1 +1,9 @@
-dsfs
+from terminal
+git status
+git add --all
+git commit -m “first commit”
+first time - set remote repository (repo)
+git remote add origin https://github.com/GoesToEleven/udemyTraining.git
+git push -u origin master
+
+git push
